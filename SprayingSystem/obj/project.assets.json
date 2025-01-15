@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "IoTClient >= 1.0.40",
+      "MiniExcel >= 1.34.2",
+      "SunnyUI >= 3.7.2",
+      "SunnyUI.Common >= 3.7.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Administrator\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\playground\\dotnet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj",
+      "projectName": "SprayingSystem",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\playground\\dotnet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj",
+      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\playground\\dotnet\\SprayingSystem\\SprayingSystem\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Users\\Administrator\\.nuget\\packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\Users\\Administrator\\Desktop\\playground\\dotnet\\SprayingSystem\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\Administrator\\Desktop\\playground\\dotnet\\SprayingSystem\\BLL\\BLL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "IoTClient": {
+            "target": "Package",
+            "version": "[1.0.40, )"
+          },
+          "MiniExcel": {
+            "target": "Package",
+            "version": "[1.34.2, )"
+          },
+          "SunnyUI": {
+            "target": "Package",
+            "version": "[3.7.2, )"
+          },
+          "SunnyUI.Common": {
+            "target": "Package",
+            "version": "[3.7.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
+      "libraryId": "SunnyUI.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
+      "libraryId": "MiniExcel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
+      "libraryId": "SunnyUI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
+      "libraryId": "IoTClient"
+    }
+  ]
+}

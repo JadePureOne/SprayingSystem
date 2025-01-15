@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "dgSpecHash": "pif9bZIo8c4=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\playground\\dotnet\\SprayingSystem\\Helper\\Helper.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
+      "libraryId": "NLog.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
+      "libraryId": "Mapster.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
+      "libraryId": "Mapster"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
+      "libraryId": "Microsoft.Extensions.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
+      "libraryId": "Microsoft.Extensions.Configuration.Json"
+    }
+  ]
+}
