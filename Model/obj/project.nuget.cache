@@ -1,39 +1,39 @@
 {
   "version": 2,
-  "dgSpecHash": "1WxzYv9q0Bg=",
-  "success": false,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\playground\\dotnet\\SprayingSystem\\Model\\Model.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
-      "libraryId": "Mapster.Core"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
-      "libraryId": "NLog.Extensions.Logging"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
-      "libraryId": "Mapster"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
-      "libraryId": "Microsoft.Extensions.Configuration"
-    },
-    {
-      "code": "NU1301",
-      "level": "Error",
-      "message": "无法获取源 https://api.nuget.org/v3-index/repository-signatures/5.0.0/index.json 的存储库签名信息。",
-      "libraryId": "Microsoft.Extensions.Configuration.Json"
-    }
-  ]
+  "dgSpecHash": "ayaAcU2959g=",
+  "success": true,
+  "projectFilePath": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\Model\\Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\fody\\6.2.5\\fody.6.2.5.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\hzy.framework.aop\\0.0.0.1\\hzy.framework.aop.0.0.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\hzy.framework.dependencyinjection\\0.0.1.24\\hzy.framework.dependencyinjection.0.0.1.24.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.1\\microsoft.extensions.configuration.fileextensions.8.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.1\\microsoft.extensions.configuration.json.8.0.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\nlog.extensions.logging\\5.3.14\\nlog.extensions.logging.5.3.14.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\rougamo.fody\\2.3.0\\rougamo.fody.2.3.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\scrutor\\4.2.2\\scrutor.4.2.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
 }
