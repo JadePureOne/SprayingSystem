@@ -1,8 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="Views\AuthManageView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\ChartManageView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\EquipmentMonitorView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
     <Compile Update="FrmMain.cs">
       <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\LogManageView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\RecipeManageView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\ReportManageView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\SystemParamSetView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\TotalEquipmentControlView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Views\UserManageView.cs">
+      <SubType>UserControl</SubType>
     </Compile>
   </ItemGroup>
 </Project>

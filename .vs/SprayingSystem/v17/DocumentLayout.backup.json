@@ -7,36 +7,16 @@
       "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\sprayingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\sprayingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1D9FE3C-75A8-4A4C-8912-9D767CDDF8C2}|Model\\Model.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A1D9FE3C-75A8-4A4C-8912-9D767CDDF8C2}|Model\\Model.csproj|solutionrelative:model\\model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\sprayingsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\sprayingsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB3348DA-3A28-42F3-9D3C-5DFDB9B791C3}|Helper\\Helper.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\helper\\helper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB3348DA-3A28-42F3-9D3C-5DFDB9B791C3}|Helper\\Helper.csproj|solutionrelative:helper\\helper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D7374EF5-E004-4941-ACB3-89E689752AA9}|BLL\\BLL.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D7374EF5-E004-4941-ACB3-89E689752AA9}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{991A51F2-E3EC-45E1-A504-116273A61668}|DAL\\DAL.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{991A51F2-E3EC-45E1-A504-116273A61668}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,36 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FrmMain.Designer.cs",
-              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\FrmMain.Designer.cs",
-              "RelativeDocumentMoniker": "SprayingSystem\\FrmMain.Designer.cs",
-              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\FrmMain.Designer.cs",
-              "RelativeToolTip": "SprayingSystem\\FrmMain.Designer.cs",
-              "ViewState": "AgIAAL8AAAAAAAAAAAAowNIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T09:03:55.464Z",
+              "DocumentIndex": 1,
+              "Title": "SprayingSystem",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj",
+              "RelativeDocumentMoniker": "SprayingSystem\\SprayingSystem.csproj",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj",
+              "RelativeToolTip": "SprayingSystem\\SprayingSystem.csproj",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T09:28:33.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FrmMain.cs",
-              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\FrmMain.cs",
-              "RelativeDocumentMoniker": "SprayingSystem\\FrmMain.cs",
-              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\FrmMain.cs",
-              "RelativeToolTip": "SprayingSystem\\FrmMain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T07:33:35.709Z",
+              "DocumentIndex": 2,
+              "Title": "SprayingSystem",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj",
+              "RelativeDocumentMoniker": "SprayingSystem\\SprayingSystem.csproj",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj",
+              "RelativeToolTip": "SprayingSystem\\SprayingSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T09:28:26.592Z",
               "EditorCaption": ""
             },
             {
@@ -86,74 +61,9 @@
               "RelativeDocumentMoniker": "SprayingSystem\\Program.cs",
               "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Program.cs",
               "RelativeToolTip": "SprayingSystem\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T07:33:09.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Model.csproj",
-              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\Model\\Model.csproj",
-              "RelativeDocumentMoniker": "Model\\Model.csproj",
-              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\Model\\Model.csproj",
-              "RelativeToolTip": "Model\\Model.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T05:20:02.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SprayingSystem.csproj",
-              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj",
-              "RelativeDocumentMoniker": "SprayingSystem\\SprayingSystem.csproj",
-              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj*",
-              "RelativeToolTip": "SprayingSystem\\SprayingSystem.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T05:18:19.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Helper.csproj",
-              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\Helper\\Helper.csproj",
-              "RelativeDocumentMoniker": "Helper\\Helper.csproj",
-              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\Helper\\Helper.csproj",
-              "RelativeToolTip": "Helper\\Helper.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T05:18:07.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BLL.csproj",
-              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\BLL\\BLL.csproj",
-              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
-              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\BLL\\BLL.csproj",
-              "RelativeToolTip": "BLL\\BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T05:17:54.538Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DAL.csproj",
-              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\DAL\\DAL.csproj",
-              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
-              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\DAL\\DAL.csproj",
-              "RelativeToolTip": "DAL\\DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T05:17:38.254Z",
+              "WhenOpened": "2025-01-15T09:27:52.472Z",
               "EditorCaption": ""
             },
             {
@@ -167,6 +77,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T05:13:47.721Z",
               "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             }
           ]
         }
