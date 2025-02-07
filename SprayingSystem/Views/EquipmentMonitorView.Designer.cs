@@ -28,10 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            uiLabel1 = new Sunny.UI.UILabel();
+            SuspendLayout();
+            // 
+            // uiLabel1
+            // 
+            uiLabel1.Font = new Font("宋体", 12F, FontStyle.Regular, GraphicsUnit.Point, 134);
+            uiLabel1.ForeColor = Color.FromArgb(48, 48, 48);
+            uiLabel1.Location = new Point(0, 0);
+            uiLabel1.Name = "uiLabel1";
+            uiLabel1.Size = new Size(100, 23);
+            uiLabel1.TabIndex = 0;
+            uiLabel1.Text = "EquipmentMonitorView";
+            // 
+            // EquipmentMonitorView
+            // 
+            AutoScaleMode = AutoScaleMode.None;
+            ClientSize = new Size(1085, 549);
+            Controls.Add(uiLabel1);
+            Name = "EquipmentMonitorView";
+            Symbol = 57397;
+            Text = "设备监控";
+            ResumeLayout(false);
         }
 
         #endregion
+
+        private Sunny.UI.UILabel uiLabel1;
     }
 }

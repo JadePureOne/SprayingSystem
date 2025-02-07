@@ -28,8 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            SuspendLayout();
+            // 
+            // RecipeManageView
+            // 
+            AutoScaleMode = AutoScaleMode.None;
+            ClientSize = new Size(1085, 549);
+            Name = "RecipeManageView";
+            Symbol = 162333;
+            ResumeLayout(false);
         }
 
         #endregion

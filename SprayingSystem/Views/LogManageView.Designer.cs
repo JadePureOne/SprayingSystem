@@ -28,8 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            SuspendLayout();
+            // 
+            // LogManageView
+            // 
+            AutoScaleMode = AutoScaleMode.None;
+            ClientSize = new Size(1085, 549);
+            Name = "LogManageView";
+            Symbol = 162333;
+            ResumeLayout(false);
         }
 
         #endregion

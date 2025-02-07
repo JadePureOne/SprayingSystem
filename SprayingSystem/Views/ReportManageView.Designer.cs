@@ -28,8 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            SuspendLayout();
+            // 
+            // ReportManageView
+            // 
+            AutoScaleMode = AutoScaleMode.None;
+            ClientSize = new Size(1085, 549);
+            Name = "ReportManageView";
+            Symbol = 57586;
+            ResumeLayout(false);
         }
 
         #endregion

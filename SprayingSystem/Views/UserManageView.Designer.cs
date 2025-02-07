@@ -28,8 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            SuspendLayout();
+            // 
+            // UserManageView
+            // 
+            AutoScaleMode = AutoScaleMode.None;
+            ClientSize = new Size(1085, 549);
+            Name = "UserManageView";
+            Symbol = 61447;
+            Text = "用户管理";
+            ResumeLayout(false);
         }
 
         #endregion

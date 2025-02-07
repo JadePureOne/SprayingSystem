@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\views\\totalequipmentcontrolview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\views\\totalequipmentcontrolview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\views\\chartmanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\views\\chartmanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\views\\equipmentmonitorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\views\\equipmentmonitorview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\views\\authmanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\views\\authmanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\views\\authmanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\views\\authmanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\sprayingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\sprayingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\views\\systemparamsetview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\views\\systemparamsetview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\views\\reportmanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\views\\reportmanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\views\\logmanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\views\\logmanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\views\\recipemanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\views\\recipemanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\views\\usermanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\views\\usermanageview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|solutionrelative:sprayingsystem\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7AD0EE20-8737-4AA4-A00D-4E69E15D1084}|SprayingSystem\\SprayingSystem.csproj|d:\\qsnyc\\playground\\dotnet\\sprayingsystem\\sprayingsystem\\sprayingsystem.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -26,24 +66,157 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthManageView.cs",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\AuthManageView.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\Views\\AuthManageView.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\AuthManageView.cs",
+              "RelativeToolTip": "SprayingSystem\\Views\\AuthManageView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:26:42.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthManageView.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\AuthManageView.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\Views\\AuthManageView.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\AuthManageView.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SprayingSystem\\Views\\AuthManageView.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:24:34.083Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SystemParamSetView.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\SystemParamSetView.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\Views\\SystemParamSetView.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\SystemParamSetView.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SprayingSystem\\Views\\SystemParamSetView.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:24:09.344Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SprayingSystem",
+              "Title": "ChartManageView.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\ChartManageView.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\Views\\ChartManageView.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\ChartManageView.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SprayingSystem\\Views\\ChartManageView.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:23:39.75Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReportManageView.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\ReportManageView.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\Views\\ReportManageView.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\ReportManageView.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SprayingSystem\\Views\\ReportManageView.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:23:21.317Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogManageView.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\LogManageView.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\Views\\LogManageView.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\LogManageView.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SprayingSystem\\Views\\LogManageView.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:23:01.62Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RecipeManageView.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\RecipeManageView.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\Views\\RecipeManageView.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\RecipeManageView.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SprayingSystem\\Views\\RecipeManageView.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:22:36.702Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquipmentMonitorView.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\EquipmentMonitorView.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\Views\\EquipmentMonitorView.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\EquipmentMonitorView.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SprayingSystem\\Views\\EquipmentMonitorView.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:22:10.91Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserManageView.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\UserManageView.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\Views\\UserManageView.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\UserManageView.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SprayingSystem\\Views\\UserManageView.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:21:54.571Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TotalEquipmentControlView.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\TotalEquipmentControlView.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\Views\\TotalEquipmentControlView.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Views\\TotalEquipmentControlView.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SprayingSystem\\Views\\TotalEquipmentControlView.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:21:19.093Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmMain.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\FrmMain.cs",
+              "RelativeDocumentMoniker": "SprayingSystem\\FrmMain.cs",
+              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\FrmMain.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "SprayingSystem\\FrmMain.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T10:08:00.745Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SprayingSystem.csproj",
               "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj",
               "RelativeDocumentMoniker": "SprayingSystem\\SprayingSystem.csproj",
               "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj",
               "RelativeToolTip": "SprayingSystem\\SprayingSystem.csproj",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-01-15T09:28:33.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "SprayingSystem",
               "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\SprayingSystem.csproj",
               "RelativeDocumentMoniker": "SprayingSystem\\SprayingSystem.csproj",
@@ -55,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\Program.cs",
               "RelativeDocumentMoniker": "SprayingSystem\\Program.cs",
@@ -63,20 +236,7 @@
               "RelativeToolTip": "SprayingSystem\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T09:27:52.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmMain.cs [\u8BBE\u8BA1]",
-              "DocumentMoniker": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\FrmMain.cs",
-              "RelativeDocumentMoniker": "SprayingSystem\\FrmMain.cs",
-              "ToolTip": "D:\\QSNYC\\playground\\DotNet\\SprayingSystem\\SprayingSystem\\FrmMain.cs [\u8BBE\u8BA1]",
-              "RelativeToolTip": "SprayingSystem\\FrmMain.cs [\u8BBE\u8BA1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T05:13:47.721Z",
-              "EditorCaption": " [\u8BBE\u8BA1]"
+              "WhenOpened": "2025-01-15T09:27:52.472Z"
             },
             {
               "$type": "Bookmark",
