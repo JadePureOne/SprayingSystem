@@ -179,3 +179,15 @@ Helper/obj/
 # Specific files to ignore
 **/*.AssemblyInfo.cs
 **/*.AssemblyInfoInputs.cache
+.vs/SprayingSystem/DesignTimeBuild/.dtbcache.v2
+.vs/SprayingSystem/v17/.suo
+.vs/SprayingSystem/v17/DocumentLayout.backup.json
+.vs/SprayingSystem/v17/DocumentLayout.json
+BLL/obj/Debug/net8.0/BLL.AssemblyInfo.cs
+BLL/obj/Debug/net8.0/BLL.AssemblyInfoInputs.cache
+DAL/obj/Debug/net8.0/DAL.AssemblyInfo.cs
+DAL/obj/Debug/net8.0/DAL.AssemblyInfoInputs.cache
+Helper/obj/Debug/net8.0/Helper.AssemblyInfo.cs
+Helper/obj/Debug/net8.0/Helper.AssemblyInfoInputs.cache
+Model/obj/Debug/net8.0/Model.AssemblyInfo.cs
+Model/obj/Debug/net8.0/Model.AssemblyInfoInputs.cache

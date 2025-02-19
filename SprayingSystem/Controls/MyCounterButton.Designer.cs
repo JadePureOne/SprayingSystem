@@ -44,6 +44,7 @@
             btn_Counter.TabIndex = 0;
             btn_Counter.Text = "空运行";
             btn_Counter.TipsFont = new Font("宋体", 9F, FontStyle.Regular, GraphicsUnit.Point, 134);
+            btn_Counter.Click += btn_Counter_Click;
             // 
             // MyCounterButton
             // 

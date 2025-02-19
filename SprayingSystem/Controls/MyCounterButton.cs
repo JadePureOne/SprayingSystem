@@ -104,5 +104,13 @@ namespace SprayingSystem.Controls
             set { variableName = value; }
         }
 
+        [Browsable(true)]
+        [Category("自定义事件")]
+        [Description("点击事件")]
+        public event EventHandler ClickEvent;
+        private void btn_Counter_Click(object sender, EventArgs e)
+        {
+            ClickEvent?.Invoke(this, e);
+        }
     }
 }
